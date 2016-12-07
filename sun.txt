@@ -1,0 +1,17 @@
+<Saved Data Information>											
+���� �Ͻ� = 2016-11-21 18:13:59											
+���� ���� = 11											
+											
+No	Measured DateTime	Calibration DB	Temperature [C]	Tree [No]	Sugar [Brix]	Acidity [%]	Firmness [Kgf]	DryMatter [%]	Coloring [%]	Size	Browning
+1	2016-11-16 14:33	Apple	34	0	12.7	0	0	14.5	0	0	N
+2	2016-11-16 14:34	persimon	34	0	16.3	0	0	0	0	0	0
+3	2016-11-16 14:38	Apple	35	0	17.4	0	0	15.8	0	0	Br
+4	2016-11-18 12:37	Apple	28	0	3	0	0	0	0	0	N
+5	2016-11-18 13:03	Apple	34	0	14.9	0	0.57	16.6	0	0	N
+6	2016-11-18 13:49	Apple	33	0	14.8	0	0.75	17	0	0	N
+7	2016-11-18 13:58	Apple	34	0	15.1	0	0.61	16.7	0	0	N
+8	2016-11-18 14:16	Apple	27	0	15.1	0	0.54	16.8	0	0	N
+9	2016-11-18 14:27	Apple	29	0	14.8	0	0.57	16.6	0	0	N
+10	2016-11-21 18:13	Apple	26	0	17.4	0	0	15.8	0	0	Br
+11	2016-11-21 18:14	Apple	27	0	17.4	0	0	15.8	0	0	Br
+<EOF>											
